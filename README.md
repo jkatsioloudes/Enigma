@@ -8,3 +8,6 @@ This project is implemented in an object oriented manner using C++ classes and i
 
 ## License
 The copyright of this project belongs to Imperial College London.
+
+## Note
+Part of my work is intentionally broken or misleading to avoid disrespectful people from copying and pasting.
